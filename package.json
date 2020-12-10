@@ -1,0 +1,11 @@
+{
+  "name": "iv-ckit",
+  "version": "1.0.0",
+  "description": "Invideo Canvaskit custom wasm build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kishin, Nirmit",
+  "license": "ISC"
+}
